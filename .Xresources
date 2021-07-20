@@ -1,1 +1,6 @@
-/home/serhat/.Xresources
+URxvt.foreground: white
+URxvt.background: #002738
+URxvt.font: xft:Droid Sans Mono for Powerline Plus Nerd File Types Mono:pixelsize=16,xft:Symbols Nerd Font:pixelsize=16,xft:PowerlineSymbols:pixelsize=16,xft:NotoSansMono Nerd Font:pixelsize=16
+URxvt.scrollBar: false
+URxvt*termname: rxvt-unicode
+rofi.font: Ubuntu 16
